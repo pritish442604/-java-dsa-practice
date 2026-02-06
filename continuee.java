@@ -12,7 +12,7 @@ public class continuee {
             try (// }
             Scanner sc = new Scanner(System.in)) {
                 do{
-                    System.out.println("ente the number: ");
+                    System.out.println("enter the number: ");
                     int n = sc.nextInt(); 
                     if(n%10==0){
                         continue;

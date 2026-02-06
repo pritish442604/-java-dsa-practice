@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": [
+        ".vscode",
+        "19_String",
+        "array",
+        "Bitmanupulation",
+        "functionmethod",
+        "OPPS",
+        "patternadvance",
+        "Recursion.java",
+        "Divide&conquer"
+    ],
+    "java.project.referencedLibraries": []
+}

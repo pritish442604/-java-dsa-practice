@@ -1,0 +1,1 @@
+            int income =sc.nextInt();
